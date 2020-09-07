@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://localhost:27018?replicaSet=rs",
+    "jwtSecret": "secret"
+}
